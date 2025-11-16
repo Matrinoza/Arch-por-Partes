@@ -151,6 +151,9 @@ UUID=3D9DBF203D33F186 /mnt/datos ntfs-3g defaults,windows_names 0 0
 
 ### Windows
 
+<img width="1366" height="768" alt="{BC0E2C95-F0D1-4012-9B44-9519A8FF54A4}" src="https://github.com/user-attachments/assets/12a4bef1-8173-4eb8-975c-d3a44c0b001c" />
+
+
 Los fondos de pantalla son sacados del disco compartido asi solo tenia que tener una solo carpeta con los fondos que me gustaran e ir cambiando entre ellos
 
 ### 📦 Lista de Paquetes Exportada
