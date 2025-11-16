@@ -1,12 +1,9 @@
-# 05 — Solución de errores comunes
+# 06 — Tips y comandos útiles
 
-Lista de errores reales encontrados:
+Comandos que uso seguido:
 
-## Error:
-(descripción)
-
-### Solución:
-(comandos aplicados)
-
----
-
+- pacman -Syu
+- pacman -Qqe
+- systemctl enable...
+- mkinitcpio -P
+- mount /dev/sdX...
