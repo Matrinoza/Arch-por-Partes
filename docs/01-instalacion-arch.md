@@ -20,5 +20,6 @@ Formato Grub
 
 ## Primer reboot
 
-<img width="1438" height="812" alt="imagen" src="https://github.com/user-attachments/assets/e003fe40-6aed-46cf-93f5-65ce44034013" />
+<img width="336" height="189" alt="imagen" src="https://github.com/user-attachments/assets/8726ed66-73cb-43b2-a038-35e9135594c5" />
 
+Imagen ilustrativa ya que el theme del grub usado es el mismo el unico incoveniente con el cel no podia hacer una linda foto y capturada externa de imagen no tengo asi que bueno un poquito de robo
