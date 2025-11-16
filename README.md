@@ -148,6 +148,8 @@ UUID=3D9DBF203D33F186 /mnt/datos ntfs-3g defaults,windows_names 0 0
 
 ### Windows Terminal
 
+<img width="1232" height="685" alt="{1609D8E0-C785-4F1B-BCFE-FBA05F0EE35F}" src="https://github.com/user-attachments/assets/ce3e19f9-b378-4ad3-bc37-84f5862ea26b" />
+
 
 ### Windows
 
