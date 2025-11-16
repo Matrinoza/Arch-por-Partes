@@ -3,17 +3,22 @@
 Documentación paso a paso de cómo instalé Arch Linux.
 
 ## Particionado del disco
-(agregar screenshots)
+<img width="798" height="553" alt="imagen" src="https://github.com/user-attachments/assets/9b020820-ee2d-4644-b444-6f59bc6dde2f" />
 
 ## Formato y montaje
-(comandos usados)
+<img width="423" height="178" alt="imagen" src="https://github.com/user-attachments/assets/b1e12d8d-477d-412d-b035-f1ddc961dfe2" />
+
+Siempre hacer un punto de restauracion en Windows que en este caso es el de 743MB
+Y el de datos compartidos es el de 1.1TB 
 
 ## Instalación del sistema base
 (pacstrap, fstab)
 
 ## Bootloader
-(Sea systemd-boot o GRUB)
+
+Formato Grub
 
 ## Primer reboot
-(capturas si querés)
+
+<img width="1438" height="812" alt="imagen" src="https://github.com/user-attachments/assets/e003fe40-6aed-46cf-93f5-65ce44034013" />
 
