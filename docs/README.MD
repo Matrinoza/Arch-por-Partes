@@ -12,9 +12,9 @@ Este repositorio incluye:
 ## 📚 Documentación principal
 Toda la información extendida está en la carpeta **docs**:
 
-- [Índice General] (docs/00-indice.md)
-- [Instalación] (docs/01-instalacion-arch.md)
-- [Dual Boot] (docs/04-dualboot-WindowsArch.md)
+- [Índice General](docs/00-indice.md)
+- [Instalación](docs/01-instalacion-arch.md)
+- [Dual Boot](docs/04-dualboot-WindowsArch.md)
 - [Configuraciones]
-- [Solución de errores] (docs/06-tips-comandos.md)
-- [Roadmap] (07-roadmap.md)
+- [Solución de errores](docs/06-tips-comandos.md)
+- [Roadmap](07-roadmap.md)
