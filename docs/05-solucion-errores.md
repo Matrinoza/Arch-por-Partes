@@ -65,9 +65,11 @@ Si os-prober detecta Windows, ya está
 
   - 🔥 7. Salir y reiniciar
 
-- 🟥 Configuración estética de GHOSTTY
 ---
-  - Ghostty se maneja por: ~/.config/ghostty/config
+
+- 🟥 Configuración estética de GHOSTTY
+
+- Ghostty se maneja por: ~/.config/ghostty/config
 
 ```bash
 mkdir -p ~/.config/ghostty
