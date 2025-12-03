@@ -43,7 +43,7 @@ Documentar paso a paso la construcción de un sistema compartido:
 
 ## 🧩 Hardware del Equipo
 - 💻 **HP Notebook — Intel i3-6006U**
-- 🔧 **RAM:** 8GB DDR4 1600MHz 
+- 🔧 **RAM:** 16GB DDR4 2100MHz 
 - 💽 **SSD 2TB**
 - 🎮 **Intel HD Graphics 520**
 - 🧊 Dual-boot con UEFI
